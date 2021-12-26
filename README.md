@@ -3,6 +3,7 @@ Michael Shaw
 ### A voxel-based 3d rendering project using OpenGL
 
 Compilation:
+
     mkdir build
     
     cd build
