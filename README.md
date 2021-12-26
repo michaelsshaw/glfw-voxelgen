@@ -4,10 +4,13 @@ Michael Shaw
 
 Compilation:
     mkdir build
+    
     cd build
+    
     cmake ..
+    
     make
-    cd bin
+    
     ./minecraft
 
 Obviously this project is inspired heavily by minecraft.
