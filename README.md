@@ -1,5 +1,6 @@
-Michael Shaw - GLFW_PROJECT01
-A voxel-based 3d rendering project using OpenGL
+Michael Shaw
+# GLFW_PROJECT01
+### A voxel-based 3d rendering project using OpenGL
 
 Compilation:
     mkdir build
